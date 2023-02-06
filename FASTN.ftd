@@ -6,3 +6,5 @@ download-base-url: https://raw.githubusercontent.com/fifthtry/black-forest-cs/ma
 -- fastn.dependency: fifthtry.github.io/doc-site as ds
 
 -- fastn.auto-import: ds
+
+-- fastn.dependency: fifthtry.github.io/color-doc as cd
