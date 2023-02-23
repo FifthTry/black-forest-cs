@@ -1,14 +1,19 @@
 -- import: fifthtry.github.io/black-forest-cs/assets
 -- import: fifthtry.github.io/color-doc/color-ui as cu
 -- import: fastn
+-- import: fastn/processors as pr
 -- import: cd
 -- import: fifthtry.github.io/black-forest-cs/colors
 
+-- string figma-json:
+$processor$: pr.figma-cs-token
+variable: $main
+name: black-forest-cs
 
 -- cd.color-display-one:
 colors: $main
 minimize: true
-
+figma-json: $figma-json
 
 
 
